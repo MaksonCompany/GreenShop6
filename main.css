@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    color: inherit;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #f2f2f2;
+   
+}
+nav ul,nav button,nav li {
+    display: inline-block;
+}
+nav ul {
+    list-style: none;
+    margin-left: 229px;
+    
+}
+section .container {
+    margin-top: 12px;
+    background: linear-gradient(97.77deg, rgba(245, 245, 245, 0.5) -23.46%, rgba(245, 245, 245, 0.5) 107.51%);
+
+}
+section .left {
+    display: inline-block;
+    max-width: 50%;
+    padding: 68px 43px;
+    vertical-align: top;
+}
+section .right {
+    display: inline-block;
+    max-width: 50%;
+}
+nav li {
+margin: 0 25px;
+padding-bottom: 25px;
+border-bottom: 5px solid rgba(70, 163, 88, 1) ;
+font-size: 19px;
+
+}
+.button1 {
+    background-color: rgba(70, 163, 88, 1);
+    color: white;
+    border-radius: 6px;
+    position: absolute;
+    margin-left: 270px;
+    width: 100px;
+    height: 35px;
+    margin-top: 14px;
+}
+.button2 {
+    background-color: rgba(70, 163, 88, 1);
+    color: white;
+    border-radius: 6px;
+    width: 140px;
+    height: 40px;
+    margin-top: 40px;
+}
+.logo1 {
+    width: 150px; 
+    height: 34px;
+}
+h2 {
+    font-size: 60px;
+}
+p {
+    line-height: 2.5;
+}
+.planetgreen {
+    color: rgba(70, 163, 88, 1);
+    
+}
