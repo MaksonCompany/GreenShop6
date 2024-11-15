@@ -1,0 +1,301 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    color: inherit;
+}
+body {
+    font-family: "CeraPro";
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #f2f2f2;
+
+}
+
+nav ul,
+nav button,
+nav li {
+    display: inline-block;
+}
+
+nav ul {
+    list-style: none;
+    margin-left: 229px;
+    float: inline-start;
+
+}
+
+section .container {
+    margin-top: 12px;
+    background: linear-gradient(97.77deg, rgba(245, 245, 245, 0.5) -23.46%, rgba(245, 245, 245, 0.5) 107.51%);
+    
+
+}
+
+section .left {
+    display: inline-block;
+    max-width: 50%;
+    padding: 68px 43px;
+    vertical-align: top;
+}
+
+section .right {
+    max-width: 50%;
+    float: right;
+}
+
+nav li {
+    margin: 0 25px;
+    padding-bottom: 25px;
+    border-bottom: 5px solid rgba(70, 163, 88, 1);
+    font-size: 19px;
+
+}
+
+.button1 {
+    background-color: rgba(70, 163, 88, 1);
+    color: white;
+    border-radius: 6px;
+    vertical-align: middle;
+    float: right;
+    width: 100px;
+    height: 35px;
+    
+}
+
+.button2 {
+    background-color: rgba(70, 163, 88, 1);
+    color: white;
+    border-radius: 6px;
+    width: 140px;
+    height: 40px;
+    margin-top: 40px;
+}
+
+.logo1 {
+    width: 150px;
+    height: 34px;
+    float: left;
+}
+
+h2 {
+    font-size: 60px;
+}
+
+.welcome {
+    line-height: 2.5;
+}
+
+.planetgreen {
+    color: rgba(70, 163, 88, 1);
+
+}
+
+form,
+.verh {
+    text-align: center;
+
+}
+
+input {
+    display: block;
+    outline: auto 1px;
+
+}
+
+.input1 {
+    margin: 0 auto;
+    width: 310px;
+    height: 37px;
+    margin-top: 20px;
+    padding-left: 10px;
+    border: 1px;
+}
+
+.reg {
+    color: rgb(72, 173, 72);
+}
+
+.verh {
+    margin-top: 80px;
+}
+
+.verh2 {
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.submit {
+    margin: 0 auto;
+    width: 325px;
+    height: 47px;
+    margin-top: 50px;
+    background-color: rgb(72, 173, 72);
+    border: 0;
+    color: white;
+}
+
+.hrreg {
+    width: 35px;
+    margin-top: 50px;
+}
+
+.orreg {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.buttonreg {
+    display: block;
+    margin: 0 auto;
+    width: 325px;
+    height: 47px;
+    margin-top: 20px;
+    background-color: white;
+    outline: auto;
+
+}
+
+.imgbutreg {
+    width: 15px;
+    height: 15px;
+}
+
+.bigcontainer2 {
+    margin: 0 auto;
+    width: 1200px;
+    height: auto;
+    display: flex;
+}
+
+.container2 {
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    width: 1200px;
+    height: auto;
+    align-items: start;
+    flex-direction: column;
+
+    
+}
+.flex1 {
+    width: 310px;
+    height: 720px;
+    margin-left: 29px;
+    background-color: rgba(251, 251, 251, 1);
+    
+}
+.flex2 {
+    width: 838px;
+    height: 23px;
+    
+    margin: 5px;
+}
+.flex3 {
+    width: 840px;
+    height: 1190px;
+    margin: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: space-around;
+    
+    
+    
+}
+.flex4 {
+    width: 340px;
+    height: 470px;
+    
+}
+.container3 {
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    width: 1200px;
+    height: auto;
+    align-items: start;
+    flex-direction: column; }
+
+    
+    .flex1 ul {
+        list-style: none;
+        margin-left: 30px;
+        margin-top: 10px;
+        
+        
+    }
+    .flex1 li {
+        font-size: 15px;
+        margin-top: 10px;
+        
+        
+    }
+    .flex1 p {
+        font-size: 18px;
+        margin-left: 18px;
+        margin-top: 14px;
+    }
+    .flex2 ul  {
+        list-style: none;
+        display: inline;
+    }
+    .flex2 li {
+        display: inline;
+        margin-left: 30px;
+        font-size: 15px;
+    }
+    .imgright2 {
+        width: 258px;
+        height: 350px;
+        background-color: #f2f2f2;
+    }
+.grennhouseplants {
+    color: rgba(70, 163, 88, 1);
+}
+.ru {
+    color: rgba(70, 163, 88, 1);
+    font-size: 15px;
+}
+.spanright {
+    padding-left: 350px;
+}
+.flex5 {
+height: 35px;
+width: 215px;
+background-color: rgb(255, 255, 255);
+align-self: flex-end;
+margin-right: 15px;
+display: flex;
+justify-content: space-between;
+
+}
+.flex5div {
+height: 35px;
+width: 35px;
+background-color: rgb(255, 255, 255);
+text-align: center;
+padding-top: 7px;
+border: 1px solid black;
+border-radius: 7px;
+font-size: 18px;
+}
+
+.flex5gr {
+    height: 35px;
+    width: 35px;
+    background-color: rgba(70, 163, 88, 1);
+    text-align: center;
+    padding-top: 7px;
+    border: 1px solid black;
+    border-radius: 7px;
+    color: #f2f2f2;
+    font-size: 18px;
+}
