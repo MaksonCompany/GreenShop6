@@ -13,6 +13,7 @@ body {
 .container {
     max-width: 1200px;
     margin: 0 auto;
+    display: flexbox;
     background-color: #f2f2f2;
 
 }
@@ -255,7 +256,8 @@ input {
     .imgright2 {
         width: 258px;
         height: 350px;
-        background-color: #f2f2f2;
+        background-color: #faf9f9;
+        
     }
 .grennhouseplants {
     color: rgba(70, 163, 88, 1);
@@ -282,7 +284,7 @@ height: 35px;
 width: 35px;
 background-color: rgb(255, 255, 255);
 text-align: center;
-padding-top: 7px;
+padding-top: 5px;
 border: 1px solid black;
 border-radius: 7px;
 font-size: 18px;
@@ -293,9 +295,21 @@ font-size: 18px;
     width: 35px;
     background-color: rgba(70, 163, 88, 1);
     text-align: center;
-    padding-top: 7px;
+    padding-top: 5px;
     border: 1px solid black;
     border-radius: 7px;
     color: #f2f2f2;
     font-size: 18px;
+}
+
+.imgimg {
+    width: 250px;
+    height: 250px;
+    margin-left: 4px;
+    margin-top: 5px;
+}
+
+.pgreen2{
+    color: rgba(70, 163, 88, 1);
+
 }
