@@ -20,5 +20,5 @@
     font-family: "CeraPro";
     font-weight: 900;
     src: local("CeraPro-Black"),
-      url("../fonts/CeraPro-Regular.woff2") format("woff2"),
+      url("../fonts/CeraPro-Black.woff2") format("woff2"),
   }
